@@ -1,4 +1,4 @@
-# DataFlair Sudoku solver
+# Sudoku solver
 
 
 def find_empty(board):
